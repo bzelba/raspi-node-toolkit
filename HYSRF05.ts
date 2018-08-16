@@ -28,7 +28,7 @@ export class HYSRF05 {
         echo:0
     };
 
-    constructor(gpio_pins: {trig:number,echo:number}, loop:any = null) {
+    constructor(gpio_pins: {trig:number,echo:number}, loop:(sensor:any) => void = null) {
         this.gpio_pins = gpio_pins;
         this.loop = loop;
         this.init();

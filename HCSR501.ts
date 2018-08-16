@@ -37,7 +37,7 @@ export class HCSR501 {
      *
      * @param callback Pass a callback to use the retrieved data.
      */
-    public read(callback:(state:boolean,delay:number)=>{}) {
+    public read(callback:(state:boolean,delay:number) => void) {
         let movementDetected:boolean = false;
         let gpioState:boolean = false;
         let timePassed:number = 0;
