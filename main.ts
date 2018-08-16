@@ -1,5 +1,5 @@
 /**
- *
+ * This file is just for testing, do not use.
  */
 import rpio = require('rpio');
 import {JQC3FF} from "./JQC3FF";
