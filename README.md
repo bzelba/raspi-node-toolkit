@@ -1,5 +1,5 @@
 # raspi-node-toolkit
-A small node toolkit for raspi modules like sensors, relays etc.
+A small node toolkit for raspi modules like sensors, relays etc.  
 This toolkit does make use of https://github.com/jperkin/node-rpio
 
 ## Install
