@@ -1,9 +1,12 @@
 # raspi-node-toolkit
 A small node toolkit for raspi modules like sensors, relays etc.  
-This toolkit does make use of https://github.com/jperkin/node-rpio
+This toolkit does make use of https://github.com/jperkin/node-rpio  
+If you develop directly on the pi install rpio, too otherwise skip it  
+and add it later on the pi, otherwise you can't install it.
 
 ## Install
 ```
+npm install rpio
 npm install garlian/raspi-node-toolkit
 ```
 
