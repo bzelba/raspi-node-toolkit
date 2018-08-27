@@ -1,4 +1,24 @@
 {
+  "name": "raspi-node-toolkit",
+  "version": "0.0.1",
+  "description": "A small node toolkit for raspi modules like sensors, relays etc.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garlian/raspi-node-toolkit.git"
+  },
+  "keywords": [
+    "node",
+    "raspberry",
+    "pi",
+    "raspi",
+    "sensor",
+    "module"
+  ],
+  "author": "Bernd Zelba",
+  "bugs": {
+    "url": "https://github.com/garlian/raspi-node-toolkit/issues"
+  },
   "dependencies": {
     "rpio": "^0.9.22"
   }
