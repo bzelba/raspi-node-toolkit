@@ -64,3 +64,4 @@ while(true) {
 ### TODO
 * Improving overall code quality
 * Adding more libraries
+* Improving usability due to rpio only being installable on a pi
