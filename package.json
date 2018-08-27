@@ -1,6 +1,6 @@
 {
   "name": "raspi-node-toolkit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A small node toolkit for raspi modules like sensors, relays etc.",
   "main": "main.js",
   "repository": {
