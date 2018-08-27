@@ -18,5 +18,8 @@
   "author": "Bernd Zelba",
   "bugs": {
     "url": "https://github.com/garlian/raspi-node-toolkit/issues"
+  },
+  "dependencies": {
+    "rpio": "^0.9.22"
   }
 }
