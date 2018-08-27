@@ -60,3 +60,7 @@ while(true) {
     rpio.msleep(1000);
 }
 ```
+
+### TODO
+* Improving overall code quality
+* Adding more libraries
